@@ -2,12 +2,11 @@
 
 欢迎来到我的 GitHub 主页！✨
 
-
-
-## 🐱 About me
 <table>
   <tr>
     <td valign="top">
+      
+## 🐱 About me
 - 🍥 05mtf，欢迎同类贴贴🥰
 - 🎓 机器人工程    
 - 🌱 按计划自学中   
@@ -16,8 +15,6 @@
 <td>
   <img src="https://github.com/xiancaijiang27/xiancaijiang27/blob/main/橘子洲.jpg?raw=true" width="200" style="float: right; margin-left: 20px;"/>
 </td>
-  </tr>
-</table>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="103"/>
