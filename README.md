@@ -24,9 +24,8 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="97"/>
-  &emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="97"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="117"/>
 </p>
 
 ## 📫 How to reach me
