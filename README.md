@@ -8,7 +8,7 @@
 
 ## 🙋🏻‍♀️ About me
 
-- 🍥 05mtf，欢迎同类贴贴 🥰&emsp;&emsp;&emsp; 
+- 🍥 05mtf，欢迎同类贴贴 🥰
 - 🎓 机器人工程    
 - 🌱 按计划自学中   
 - 🧠 热爱神经科学 & 天文学
@@ -24,9 +24,9 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="127"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="97"/>
   &emsp;&emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="127"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="97"/>
 </p>
 
 ## 📫 How to reach me
