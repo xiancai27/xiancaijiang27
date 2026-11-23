@@ -2,6 +2,10 @@
 
 欢迎来到我的 GitHub 主页！✨
 
+<table>
+  <tr>
+    <td valign="top">
+
 ## 🐱 About me
 
 - 🍥 05mtf，欢迎同类贴贴 🥰
@@ -9,6 +13,7 @@
 - 🌱 按计划自学中   
 - 🧠 热爱神经科学 & 天文学
                                     
+
 </td>
 <td>
   <img src="https://github.com/xiancaijiang27/xiancaijiang27/blob/main/橘子洲.jpg?raw=true" width="200" style="float: right; margin-left: 20px;"/>
