@@ -2,10 +2,6 @@
 
 欢迎来到我的 GitHub 主页！✨
 
-<table>
-  <tr>
-    <td valign="top">
-
 ## 🐱 About me
 
 - 🍥 05mtf，欢迎同类贴贴 🥰
