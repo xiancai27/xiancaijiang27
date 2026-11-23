@@ -8,7 +8,7 @@
 
 ## 🙋🏻‍♀️ About me
 
-- 🍥 05mtf，欢迎同类贴贴 🥰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+- 🍥 05mtf，欢迎同类贴贴 🥰&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
 - 🎓 机器人工程    
 - 🌱 按计划自学中   
 - 🧠 热爱神经科学 & 天文学
