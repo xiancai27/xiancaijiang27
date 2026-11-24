@@ -2,10 +2,7 @@
 
 欢迎来到我的 GitHub 主页！✨
 
---- 
-<table>
-  <tr>
-    <td valign="top">
+---
       
 ## 🐱 About me
 
