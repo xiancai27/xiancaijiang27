@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top">
-
+--- 
 ## 🐱 About me
 
 - 🍥 05mtf，欢迎同类贴贴🥰
@@ -25,10 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiancaijiang27&show_icons=true&title_color=9f57f9&icon_color=ff66c4&text_color=333333&bg_color=ffffff" height="117"/>
 </p>
 
----
-<table>
-  <tr>
-    <td valign="top">
-      
+---      
 ## 📫 How to reach me
+
 - 💬 微信：xiancaijiang27
