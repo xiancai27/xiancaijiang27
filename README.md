@@ -5,7 +5,9 @@
 ---
       
 ## 🐱 About me
-
+<table>
+  <tr>
+    <td valign="top">
 - 🍥 05mtf，欢迎同类贴贴🥰
 - 🎓 机器人工程    
 - 🌱 按计划自学中   
